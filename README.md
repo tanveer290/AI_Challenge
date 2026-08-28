@@ -1,8 +1,7 @@
 # Vera Bot — AI Challenge
 
 A rule-based WhatsApp merchant assistant that composes context-aware messages
-using signal extraction, trigger routing, and template composition —
-**no LLM required**.
+using signal extraction, trigger routing, and template composition.
 
 ---
 
